@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'ALKDots';
+    src: url('../fonts-folder/alk/alkdots-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts-folder/alk/alkdots-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts-folder/alk/alkdots-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts-folder/alk/alkdots-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts-folder/alk/alkdots-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts-folder/alk/alkdots-webfont.svg#alkdotsregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'Dancing Script';
+    src: url('../fonts-folder/DancingScript-Medium.eot');
+    src: url('../fonts-folder/DancingScript-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts-folder/DancingScript-Medium.woff2') format('woff2'),
+        url('../fonts-folder/DancingScript-Medium.woff') format('woff'),
+        url('../fonts-folder/DancingScript-Medium.svg#DancingScript-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
